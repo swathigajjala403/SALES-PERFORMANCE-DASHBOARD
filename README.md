@@ -31,3 +31,9 @@ Printers and Bookcases generated the most profit.
 Other contributors: Saree, Accessories, Tables.
 Quarter Filter:
 The dashboard includes buttons to filter data by Q1, Q2, Q3, and Q4.
+Tools:
+Power BI
+
+DAX, Power Query
+
+Sales Dataset (CSV/Excel)
